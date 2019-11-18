@@ -9,11 +9,11 @@ This bash script will work on any website using cpanel configuration. It accompl
 - Prints disk space used by files
 - Prints disk space used by database
 
-- Allows you to make the following changes (you are required to let the script make a backup for you before making changes)
-> Deactivate all plugins
-> Activate all plugins
-> Manage Themes
-> URL Search and Replace
-> Flush cache
-> Resave permalink structure
-> Check for WP version updates
+Allows you to make the following changes (you are required to let the script make a backup for you before making changes)
+- Deactivate all plugins
+- Activate all plugins
+- Manage Themes
+- URL Search and Replace
+- Flush cache
+- Resave permalink structure
+- Check for WP version updates
